@@ -10,6 +10,7 @@
 .logo{
     font-size: 24px;
     color: #f9faf8;
+    font-weight: bolder;
 }
 
 a{
@@ -49,6 +50,7 @@ a{
 .main-title{
     font-size: 48px;
     color:#f9faf8;
+    font-weight: bolder;
 }
 
 .main-text{
@@ -57,12 +59,12 @@ a{
 }
 
 .main-button{
-    border:none;
+    border:solid 3px white;
     font-size:16px;
     font-weight: 600;
     color:white;
     padding:8px;
-    background: darkblue;
+    background: #1F2937;
     border-radius: 8px;
     width:100px;
     flex-shrink: 0;
@@ -73,6 +75,7 @@ a{
     color:#1F2937;
     font-size: 36px;
     padding:40px;
+    font-weight: bold;
 }
 
 .image-info{
@@ -125,7 +128,7 @@ a{
 
 .modal-title{
     font-size: 26px;
-    font-family: 900;
+    font-weight: bold;
     color:white;
 }
 
